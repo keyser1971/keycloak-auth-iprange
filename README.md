@@ -1,9 +1,9 @@
 
-# Keycloak IP range condition module
+## Keycloak IP range condition module
 
 This module allow using the IP range condition in authentication flows.
 
-# Installation
+## Installation
 
 First, compile the module with:
 ```
