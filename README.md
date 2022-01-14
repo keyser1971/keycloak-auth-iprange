@@ -12,3 +12,9 @@ mvn clean install
 ```
 
 Second, copy kkeyser-auth-iprange.jar from **target** to **deployments** directory of your Keycloak installation.
+
+## How to use
+
+This is example of using this module. In this flow, Kerberos authorization will be used only if client is belong to the defined IP networks.
+
+[!description](/images/howto-1.png)
