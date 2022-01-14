@@ -10,4 +10,4 @@ First, compile the module with:
 ```
 mvn clean install
 ```
-Second, copy kkeyser-auth-iprange.jar from **target** directory to **deployments** directory.
+Second, copy kkeyser-auth-iprange.jar from **target** to **deployments** directory of your Keycloak installation.
